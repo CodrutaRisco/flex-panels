@@ -19,7 +19,7 @@ This mini-project creates an interactive set of **5 flexbox panels**, each with 
 
 ## 🔗 Demo live
 
-
+ https://codrutarisco.github.io/flex-panels/
 
 ## 🚀 How to run locally
 
